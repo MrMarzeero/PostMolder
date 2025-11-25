@@ -6,8 +6,7 @@
 ⚠️ Para utilizar este projeto, é necessário executá-lo localmente. Não há uma versão pública online, pois ele não está integrado a nenhum sistema no momento.
 
 ---
-
-PostModer é uma API Rest que usa um agente de IA (através da API da OpenAI) em uma ideia de post para Redes Sociais, você deve inserir um contexto e seu post estará feito!
+PostModer é uma API REST que utiliza um agente de IA (via OpenAI) para transformar ideias em posts para redes sociais. Basta fornecer o contexto desejado e o conteúdo é gerado automaticamente.
  - "template": Insere um template onde o agente irá apenas completar os espaços.
  - "tonalidade": Especifica qual deve ser o tom do texto imprimido.
  - "limites": Permite que você defina um limite máximo de caracteres para cada campo do template ou do texto final.
